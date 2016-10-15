@@ -1,2 +1,2 @@
-# arabic-spinner-wordpress-plugin
+# Arabic spinner wordpress plugin
 Arabic Spinner Wordpress Plugin
